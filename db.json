@@ -15,13 +15,13 @@
   ],
   "comments": [
     {
-      "id": 1,
-      "body": "some comment",
+      "name": "Billy Bob",
+      "body": "Very Hardworking Individual",
       "postId": 1
     },
     {
-      "id": 2,
-      "body": "some comment",
+      "name": "Herman Smith",
+      "body": "Shows Great Deatails in Pages!",
       "postId": 1
     }
   ],
